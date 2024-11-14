@@ -94,7 +94,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+https://list.iptvcat.com/my_list/s/b8fe7c4408ca54c30a6101352f5e9fe1.m3u8
 #EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" group-title="TRANS VISION",RCTI (Vision+)
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
