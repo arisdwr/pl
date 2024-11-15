@@ -580,6 +580,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be
 #KODIPROP:key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
+#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (MY)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
+
+#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (MY)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
+
+#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (MY)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
+
+#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (SG)
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517924
+
+#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (SG)
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517925
+
+#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (SG)
+http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517923
+
 #EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (Vision+)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
