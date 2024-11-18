@@ -701,3 +701,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22
 
 #EXTINF:-1 url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" group-title="test" , Astro Premier League 2
 http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=7238&deviceMac=00:1A:79:22:59:72
+
+#EXTINF:-1 url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" tvg-id="Astro.Football.my" group-title="test" , Astro Football
+http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22:59:72
+
+#EXTINF:-1 url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" tvg-id="Astro.Grandstand.my" group-title="test" , Astro Grandstand
+http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22:59:72
