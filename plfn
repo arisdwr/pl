@@ -495,13 +495,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be
 #KODIPROP:key=https://cubmu.trenztv.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
-#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (MY)
+#EXTINF:-1  tvg-id="beIN.SPORTS.1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (MY)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
 
-#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (MY)
+#EXTINF:-1  tvg-id="beIN.SPORTS.2.my" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (MY)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
 
-#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (MY)
+#EXTINF:-1  tvg-id="beIN.SPORTS.3.my" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (MY)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
 
 #EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (SG)
