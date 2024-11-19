@@ -504,28 +504,28 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
 #EXTINF:-1  tvg-name="beIN SPORTS 3" tvg-id="beIN.SPORTS.3.my" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (MY)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
 
-#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (SG)
+#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="NON AKTIF",beIN Sports 1 (SG)
 http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517924
 
-#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (SG)
+#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="NON AKTIF",",beIN Sports 2 (SG)
 http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517925
 
-#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (SG)
+#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="NON AKTIF",",beIN Sports 3 (SG)
 http://jmrk.xyz:3050/walterskelton2000@gmail.com/MYmvaECCQx/517923
 
-#EXTINF:-1  tvg-id="beIN SPORTS (HD).sg" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (Vision+)
+#EXTINF:-1  tvg-name="Bein 1" tvg-id="beIN.1.id" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="test",beIN Sports 1 (Vision+)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1  tvg-id="beIN SPORTS 2 (HD).sg" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (Vision+)
+#EXTINF:-1  tvg-name="beIN SPORTS 2" tvg-id="beIN.SPORTS.2.my" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="test",beIN Sports 2 (Vision+)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1  tvg-id="beIN SPORTS 3 (HD).sg" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (Vision+)
+#EXTINF:-1  tvg-name="Bein 3" tvg-id="beIN.3.id" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="test",beIN Sports 3 (Vision+)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
