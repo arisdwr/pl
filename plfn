@@ -115,8 +115,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #KODIPROP:key=https://cubmu.trenztv.workers.dev
 https://list.iptvcat.com/my_list/s/b8fe7c4408ca54c30a6101352f5e9fe1.m3u8
 
-#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" group-title="tv",RCTI (ALTERNATIF)
+#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" group-title="TV",RCTI (ALTERNATIF)
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
+
+#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" group-title="TV",iNews (ALTERNATIF)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
+
+#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png" group-title="TV",MNC TV (ALTERNATIF)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
+
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png" group-title="TV",GTV (ALTERNATIF)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
 
 #EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" group-title="NON AKTIF",RCTI (Vision+)
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -135,7 +144,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:key=https://cubmu.trenztv.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
-#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png" group-title="TV",GTV (Vision+)
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png" group-title="NON AKTIF",GTV (Vision+)
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -152,13 +161,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:key=https://cubmu.trenztv.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
-#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png" group-title="TV",MNC TV (Vision+)
+#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png" group-title="NON AKTIF",MNC TV (Vision+)
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" group-title="TV",iNews
+#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" group-title="NON AKTIF",iNews
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
