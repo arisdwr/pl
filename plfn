@@ -581,9 +581,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7238&deviceMac=00:1A:79:22
 #EXTINF:-1 url-tvg="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz" tvg-name="Astro Grandstand" tvg-id="Astro.Grandstand.my" group-title="test" , Astro Grandstand
 http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7238&deviceMac=00:1A:79:22:59:72
 
-#EXTINF:-1 tvg-name="lotr" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="VOD",lotr
-https://www.googleapis.com/drive/v3/files/1eZ9mv4qEsfZujD5TWW5b3dZqsSnwVPQQ?alt=media&key=AIzaSyDMX_xZ7OcOWHaiHs0X5NjChXzK1xUTSfo
-
 #EXTINF:-1 tvg-name="Champions TV 1" tvg-id="Champions.TV.1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/ulCfH6aSxxLAngJpnWzvjzijSYg=/296x166/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="VIDIO",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
