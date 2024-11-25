@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
-#EXTINF:-1  tvg-name="HBO HD" tvg-id="369809" tvg-url="https://epg.pw/xmltv/epg_SG.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO HD
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="369809" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20241125&channel_id=369809" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
