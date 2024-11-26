@@ -691,10 +691,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
 
 #EXTINF:-1  tvg-name="NET." tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" group-title="ALTERNATIF",NET TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1  tvg-name="tvOne" tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" group-title="ALTERNATIF",TV One
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -733,23 +731,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1  tvg-name="HBO HD" tvg-id="HBO.HD.id" tvg-shift="-7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="ALTERNATIF",HBO HD
-#EXTVLCOPT:http-referrer=http://www.singteltv.com.sg
+#EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
 #EXTINF:-1  tvg-name="HBO Hits HD" tvg-id="HBO.Hits.HD.id" tvg-shift="-7" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="ALTERNATIF",HBO Hits HD
-#EXTVLCOPT:http-referrer=http://www.singteltv.com.sg
+#EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
 #EXTINF:-1  tvg-name="HBO Family HD" tvg-id="HBO.Family.HD.id" tvg-shift="-7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="ALTERNATIF",HBO Family HD
-#EXTVLCOPT:http-referrer=http://www.singteltv.com.sg
+#EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
 
 #EXTINF:-1  tvg-name="HBO Signature HD" tvg-id="HBO.Signature.HD.id" tvg-shift="-7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="ALTERNATIF",HBO Signature HD
-#EXTVLCOPT:http-referrer=http://www.singteltv.com.sg
+#EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 
 #EXTINF:-1  tvg-name="Cinemax HD" tvg-id="Cinemax.HD.id" tvg-shift="-7" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="ALTERNATIF",Cinemax HD
-#EXTVLCOPT:http-referrer=http://www.singteltv.com.sg
+#EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 #EXTINF:-1  tvg-name="Galaxy Premium" tvg-id="Galaxy.Premium.id" tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="ALTERNATIF",GALAXY PREMIUM
