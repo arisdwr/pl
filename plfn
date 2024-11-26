@@ -1,4 +1,5 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
 #EXTINF:-1  tvg-name="TVRI" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="TV",TVRI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
@@ -734,16 +735,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1  tvg-name="HBO HD" tvg-id="HBO.HD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="ALTERNATIF",HBO HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 
-#EXTINF:-1  tvg-name="HBO Hits HD" tvg-id="HBO.Hits.HD.id" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="ALTERNATIF",HBO Hits HD
+#EXTINF:-1  tvg-name="HBO Hits (HD).sg" tvg-id="HBO Hits (HD).sg" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="ALTERNATIF",HBO Hits HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 
-#EXTINF:-1  tvg-name="HBO Family HD" tvg-id="HBO.Family.HD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="ALTERNATIF",HBO Family HD
+#EXTINF:-1  tvg-name="HBO Family (HD).sg" tvg-id="HBO Family (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="ALTERNATIF",HBO Family HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
 
-#EXTINF:-1  tvg-name="HBO Signature HD" tvg-id="HBO.Signature.HD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="ALTERNATIF",HBO Signature HD
+#EXTINF:-1  tvg-name="HBO Signature (HD).sg" tvg-id="HBO Signature (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="ALTERNATIF",HBO Signature HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 
-#EXTINF:-1  tvg-name="Cinemax HD" tvg-id="Cinemax.HD.id" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="ALTERNATIF",Cinemax HD
+#EXTINF:-1  tvg-name="CINEMAX (HD).sg" tvg-id="CINEMAX (HD).sg" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="ALTERNATIF",Cinemax HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 #EXTINF:-1  tvg-name="Galaxy Premium" tvg-id="Galaxy.Premium.id" tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="ALTERNATIF",GALAXY PREMIUM
