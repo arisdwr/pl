@@ -7,22 +7,22 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="ALTERNATIF",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" ,TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png" group-title="ALTERNATIF",TVRI Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png" ,TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-world-id.png" group-title="ALTERNATIF",TVRI World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-world-id.png" ,TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" group-title="ALTERNATIF",Jambi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" ,Jambi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Jek_TV_2011.png/revision/latest?cb=20180926161551" group-title="ALTERNATIF",Jek TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Jek_TV_2011.png/revision/latest?cb=20180926161551" ,Jek TV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -31,7 +31,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="ALTERNATIF",Bungo TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" ,Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="Indosiar.id",Indosiar
@@ -39,7 +39,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" group-title="ALTERNATIF", Indosiar (Vidio)
+#EXTINF:-1tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" , Indosiar (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -51,14 +51,14 @@ https://kametv.my.id/pdx/play.mpd?id=205
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" group-title="ALTERNATIF", SCTV (Vidio)
+#EXTINF:-1tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" , SCTV (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
 https://kametv.my.id/pdx/play.mpd?id=204
 
-#EXTINF:-1tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" group-title="ALTERNATIF", MOJI
+#EXTINF:-1tvg-id="Moji.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" tvg=url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" , MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -141,7 +141,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1tvg-id="Metro TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" group-title="ALTERNATIF",Metro TV
+#EXTINF:-1tvg-id="Metro TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" ,Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
