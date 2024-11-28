@@ -5,7 +5,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"https://drmid.layarkacatv.me":"https://cubmu-jos.fiqriaw8.workers.dev/dcub"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": {"layarkacatv": "https://drmid.layarkacatv.me/", "cubmu": "https://cubmu-jos.fiqriaw8.workers.dev/dcub"}}
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
