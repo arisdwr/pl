@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="TV" tvg-id="TransTV.id",Trans TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 https://raw.githubusercontent.com/arisdwr/pl/refs/heads/main/tr.m3u8
 
