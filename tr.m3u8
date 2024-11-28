@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,NAME="Channel 1"
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,NAME="Channel 1"
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd|manifest_type=dash&license_type=com.widevine.alpha&license_key=https://drmid.layarkacatv.me/
 
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,NAME="Channel 2"
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=854x480,NAME="Channel 2"
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|manifest_type=dash&license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
