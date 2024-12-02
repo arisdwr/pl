@@ -148,7 +148,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" group-title="Nasional",Metro TV
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="Nasional",Metro TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -312,7 +312,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" group-title="Nasional Alternatif",Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="Nasional Alternatif",Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -712,7 +712,7 @@ https://surf.openwindows038.workers.dev/play.m3u8?id=783&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://surf.openwindows038.workers.dev/play.m3u8?id=782&type=hls
 
-#EXTINF:-1 group-title="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id="Metro TV" , Metro TV
+#EXTINF:-1 group-title="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV" , Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://surf.openwindows038.workers.dev/play.m3u8?id=777&type=hls
 
