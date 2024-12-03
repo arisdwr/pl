@@ -774,7 +774,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-TransT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="Nasional Alternatif" tvg-id="Trans.7.id",Trans 7
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="Nasional Alternatif" tvg-id="Trans.7.id",Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="Nasional Alternatif" tvg-id="Trans.7.id",Trans 7alt
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Trans7.m3u8
 
 
