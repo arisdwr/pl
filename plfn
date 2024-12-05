@@ -736,7 +736,7 @@ https://surf.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://surf.openwindows038.workers.dev/play.m3u8?id=875&type=hls
 
-#EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jak-tv-id.png" tvg-id="JAKTV.id",Jaktv
+#EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jak-tv-id.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://surf.openwindows038.workers.dev/play.m3u8?id=5415&type=hls
 
