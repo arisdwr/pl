@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.bevy.be/bevyfiles/indonesia1.xml.gz,https://www.bevy.be/bevyfiles/indonesia2.xml.gz,https://www.bevy.be/bevyfiles/indonesia3.xml.gz,https://www.bevy.be/bevyfiles/indonesia4.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.bevy.be/bevyfiles/indonesia1.xml.gz,https://www.bevy.be/bevyfiles/indonesia2.xml.gz,https://www.bevy.be/bevyfiles/indonesia3.xml.gz,https://www.bevy.be/bevyfiles/indonesia4.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 <============================== NASIONAL ======================================>
@@ -372,13 +372,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="VISION+" tvg-id="HIts Movie",HITS MOVIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" group-title="VISION+" tvg-id="HITS.MOVIES.id",HITS MOVIES
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/warner-tv-fr.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="TRANSVISION" tvg-id="WarnerTV",Warner TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/warner-tv-fr.png" group-title="TRANSVISION" tvg-id="WarnerTV",Warner TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -715,12 +715,6 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Animax.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="GITHUB" tvg-id="BBC.Earth.id",BBC Earth
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/BBCEarth.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="GITHUB" tvg-id="BBC.World.News.id",BBC World News
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/BBCWorldNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8crJfA.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="GITHUB" tvg-id="CINEMAX (HD).sg",Cinemax HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Cinemax.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/dreamworks-tv-hz-my.png" group-title="GITHUB" tvg-id="Dreamworks.id",Dreamworks
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Dreamworks.m3u8
 
@@ -730,22 +724,10 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Galaxy.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="GITHUB" tvg-id="Galaxy.Premium.id",GALAXY PREMIUM
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/GalaxyPremium.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="GITHUB" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="HBO HD.sg",HBO HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBO.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="GITHUB" tvg-id="HBO Family (HD).sg",HBO Family HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOFamily.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTjmocc.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="GITHUB" tvg-id="HBO Hits (HD).sg",HBO Hits HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOHits.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="GITHUB" tvg-id="HBO Signature (HD).sg",HBO Signature HD
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOSignature.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="GITHUB" tvg-id="HITS.id",HITS
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="GITHUB" tvg-id="HITS.MOVIES.id",HITS MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" group-title="GITHUB" tvg-id="HITS.MOVIES.id",HITS MOVIES
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HitsMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" group-title="GITHUB" tvg-id="Indosiar.id",Indosiar
