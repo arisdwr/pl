@@ -205,7 +205,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26b
 
 <============================== NASIONAL ALTERNATIF ======================================>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="Nasional Alternatif" tvg-id="TVRI.id",TVRIgroup-title="Nasional Alternatif",TVRI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="Nasional Alternatif" tvg-id="TVRI.id",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png" group-title="Nasional Alternatif",TVRI Sport
@@ -764,28 +764,146 @@ https://surf.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://surf.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
 
-<============================== EKSPERIMEN ======================================>
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="Eksperimen" tvg-id="TransTV.id",Trans TV
+<============================== alt2 ======================================>
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="alt2" tvg-id="TransTV.id",Trans TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TransTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="alt2" tvg-id="Trans.7.id",Trans 7
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="alt2" tvg-id="CNN Indonesia",CNN Indonesia
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNIndonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="alt2" tvg-id="CNBC Indonesia",CNBC Indonesia
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNBCIndonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="alt2" tvg-id="CNN.International.HD.id",CNN Internasional
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="alt2" tvg-id="Animax.id",Animax
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Animax.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="alt2" tvg-id="BBC.Earth.id",BBC Earth
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/BBCEarth.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="alt2" tvg-id="BBC.World.News.id",BBC World News
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/BBCWorldNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8crJfA.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="alt2" tvg-id="CINEMAX (HD).sg",Cinemax HD
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/dreamworks-tv-hz-my.png" group-title="alt2" tvg-id="Dreamworks.id",Dreamworks
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Dreamworks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/205RLbh.png" group-title="alt2" tvg-id="Galaxy.id",GALAXY
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Galaxy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="alt2" tvg-id="Galaxy.Premium.id",GALAXY PREMIUM
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/GalaxyPremium.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="alt2" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="HBO HD.sg",HBO HD
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBO.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="alt2" tvg-id="HBO Family (HD).sg",HBO Family HD
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOFamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTjmocc.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="alt2" tvg-id="HBO Hits (HD).sg",HBO Hits HD
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOHits.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="alt2" tvg-id="HBO Signature (HD).sg",HBO Signature HD
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HBOSignature.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="alt2" tvg-id="HITS.id",HITS
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="alt2" tvg-id="HIts Movie",HITS MOVIE
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HitsMovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" group-title="alt2" tvg-id="Indosiar.id",Indosiar
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" group-title="alt2" tvg-id="KompasTV.id",Kompas TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/KompasTV.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="alt2",Metro TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/MetroTV.m3u8
+
+#EXTINF:-1 group-title="alt2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/NetTV.m3u8
+
+#EXTINF:-1 group-title="alt2" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-id="Rock Action",Rock Action
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/RockAction.m3u8
+
+#EXTINF:-1 group-title="alt2" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-id="Rock Entertainment",ROCK Entertainment
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/RockEntertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="alt2" tvg-id="SPOTV.id",SPOTV 1
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/SPOTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="alt2" tvg-id="SPOTV.2.id",SPOTV 2
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/SPOTV2.m3u8
+
+#EXTINF:-1 group-title="alt2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-id="tvN.id",tvN
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TVN.m3u8
+
+#EXTINF:-1 group-title="alt2" tvg-logo="https://i.imgur.com/c4XvwO2.png" tvg-id="tvN.Movies.id",tvN Movies
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TVNMovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="alt2" tvg-id="TVRI.id",TVRI
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TVRI.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" group-title="alt2" tvg-id="SCTV.id",SCTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/SCTV.m3u8
+
+<============================== IndiHome ======================================>
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="Eksperimen" tvg-id="TransTV.id",Trans TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-TransTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="Eksperimen" tvg-id="Trans.7.id",Trans 7
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Trans7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" group-title="Eksperimen" tvg-id="Trans.7.id",Trans 7
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="Eksperimen" tvg-id="CNN Indonesia",CNN Indonesia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNIndonesia.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png" group-title="indihome" tvg-id="RTV.id",RTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-RTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="Eksperimen" tvg-id="CNBC Indonesia",CNBC Indonesia
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNBCIndonesia.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" group-title="indihome" tvg-id="ANTV.id",ANTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-ANTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="Eksperimen" tvg-id="CNN.International.HD.id",CNN Internasional
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="indihome" tvg-id="BTV.id",BTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-BTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" group-title="indihome" tvg-id="iNews.id",iNews
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-INews.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" group-title="indihome" tvg-id="Indosiar.id",Indosiar
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png" group-title="indihome" tvg-id="JTV.id",JTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-JTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jak-tv-id.png" group-title="indihome" tvg-id="JAKTV.id",JAK TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-JakTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" group-title="indihome" tvg-id="KompasTV.id",Kompas TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-KompasTV.m3u8
+
+#EXTINF:-1 group-title="indihome" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-MetroTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" group-title="indihome" tvg-id="tvOne.id",tvOne
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-TVOne.m3u8
+
+#EXTINF:-1 group-title="indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" tvg-id="SEA.TODAY.id",SEA TODAY
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-SeaToday.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="indihome" tvg-id="AXN.id",AXN
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Axn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" group-title="indihome" tvg-id="SCTV.id",SCTV
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-SCTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="indihome" tvg-id="TVRI.id",TVRI
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-TVRI.m3u8
 
 
 
