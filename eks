@@ -3,7 +3,9 @@
 
 <============================== NASIONAL ======================================>
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TransVision_logo.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="TRANSVISION" tvg-id="TVRI.id",TVRI
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TransVision_logo.png" group-title="TRANSVISION"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="TRANSVISION" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
