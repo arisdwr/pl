@@ -41,7 +41,7 @@ http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
 #EXTINF:-1 group-title="MISC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="Indosiar.id",Indosiar
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-id="Indosiar.id",Indosiar
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -50,7 +50,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="SCTV.id",SCTV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -82,7 +82,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNN Indonesia.id",CNN Indonesia
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-id="CNN Indonesia.id",CNN Indonesia
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -91,7 +91,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNBC Indonesia.id",CNBC Indonesia
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-id="CNBC Indonesia.id",CNBC Indonesia
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -151,7 +151,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro.TV.id",Metro TV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro.TV.id",Metro TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -211,12 +211,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26b
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" tvg-id="TVRI.id",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="Indosiar.id",Indosiar
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-id="Indosiar.id",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="SCTV.id",SCTV
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -273,11 +273,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title="CNNLIVE" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNN Indonesia.id",CNN Indonesia
+#EXTINF:-1 group-title="CNNLIVE" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-id="CNN Indonesia.id",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="CNBCLIVE" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNBC Indonesia.id",CNBC Indonesia
+#EXTINF:-1 group-title="CNBCLIVE" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-id="CNBC Indonesia.id",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
@@ -296,7 +296,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro TV",Metro TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -503,7 +503,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="CNN.International.HD.id",CNN Internasional
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNN.International.HD.id",CNN Internasional
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/awIDugE.png" tvg-id="CNA.sg",CNA
@@ -672,7 +672,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://surf.openwindows038.workers.dev/play.m3u8?id=782&type=hls
 
-#EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
+#EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro TV",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://surf.openwindows038.workers.dev/play.m3u8?id=777&type=hls
 
@@ -731,10 +731,10 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TransTV.m3
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" tvg-id="Trans.7.id",Trans 7
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Trans7.m3u8
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNN Indonesia.id",CNN Indonesia
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-id="CNN Indonesia.id",CNN Indonesia
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNIndonesia.m3u8
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNBC Indonesia.id",CNBC Indonesia
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-id="CNBC Indonesia.id",CNBC Indonesia
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNBCIndonesia.m3u8
 
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvg-id="Animax.id",Animax
@@ -758,13 +758,13 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Hits.m3u8
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/jWEfqKM.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="HITSMovies",HITS MOVIES
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HitsMovies.m3u8
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="Indosiar.id",Indosiar
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-id="Indosiar.id",Indosiar
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Indosiar.m3u8
 
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" tvg-id="KompasTV.id",Kompas TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/KompasTV.m3u8
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro TV",Metro TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/MetroTV.m3u8
 
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
@@ -791,7 +791,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TVNMovies.
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" tvg-id="TVRI.id",TVRI
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/TVRI.m3u8
 
-#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="SCTV.id",SCTV
+#EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-id="SCTV.id",SCTV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/SCTV.m3u8
 
 <============================== IndiHome ======================================>
@@ -814,7 +814,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-BTV.m3
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" tvg-id="iNews.id",iNews
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-INews.m3u8
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="Indosiar.id",Indosiar
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" tvg-id="Indosiar.id",Indosiar
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Indosiar.m3u8
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png" tvg-id="JTV.id",JTV
@@ -826,7 +826,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-JakTV.
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" tvg-id="KompasTV.id",Kompas TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-KompasTV.m3u8
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro TV",Metro TV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-MetroTV.m3u8
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-id="tvOne.id",tvOne
@@ -838,7 +838,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-SeaTod
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" tvg-id="AXN.id",AXN
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-Axn.m3u8
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" tvg-id="SCTV.id",SCTV
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" tvg-id="SCTV.id",SCTV
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/IDH-SCTV.m3u8
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" tvg-id="TVRI.id",TVRI
