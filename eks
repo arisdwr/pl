@@ -400,7 +400,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="VISION+" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml tvg-id="HITS",HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="VISION+" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="HITS",HITS
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -749,10 +749,10 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Galaxy.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGKtYYG.png" group-title="GITHUB" tvg-id="Galaxy.Premium.id",GALAXY PREMIUM
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/GalaxyPremium.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="GITHUB" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml tvg-id="HITS",HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IM8Gy1l.png" group-title="GITHUB" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="HITS",HITS
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" group-title="GITHUB" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml tvg-id="HITSMovies",HITS MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWEfqKM.png" group-title="GITHUB" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="HITSMovies",HITS MOVIES
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/HitsMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" group-title="GITHUB" tvg-id="Indosiar.id",Indosiar
