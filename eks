@@ -506,6 +506,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-id="CNN.International.HD.id",CNN Internasional
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
 
+#EXTINF:-1 group-title="VIDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" tvg-id="SEA.TODAY.id",SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://surf.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
+
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.imgur.com/awIDugE.png" tvg-id="CNA.sg",CNA
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
@@ -720,9 +724,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://surf.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
 
-#EXTINF:-1 group-title="VIDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" tvg-id="SEA.TODAY.id",SEA TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://surf.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
 
 <============================== alt2 ======================================>
 #EXTINF:-1 group-title="GITHUB" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" tvg-id="TransTV.id",Trans TV
