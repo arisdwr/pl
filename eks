@@ -308,12 +308,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="BERITA SATU LIVE" tvg-id="BTV.id",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png" group-title="VISION+" tvg-id="RTV.id",RTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jak-tv-id.png" group-title="VISION+" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -447,14 +441,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=8121&type=drm 
-https://surf.openwindows038.workers.dev/play.mpd?id=8121&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=8121&type=dash
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-id="Rock Entertainment",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=8120&type=drm 
-https://surf.openwindows038.workers.dev/play.mpd?id=8120&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=8120&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="TRANSVISION" tvg-id="Zee.Bioskop.id",ZEE BIOSKOP
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -618,7 +612,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/QIvA_tdI99l2JdNn9rDY4hVdPiw=/296x166/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="VIDIO",Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -626,7 +620,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3tLT4HIN-CpGJ9Yydl8GlOYoJ8g=/296x166/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="VIDIO",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -634,7 +628,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="VIDIO",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -642,7 +636,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="VIDIO",Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -650,7 +644,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 
 
@@ -658,71 +652,71 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" tvg-id="Trans.TV.id",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=733&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=733&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png" tvg-id="Trans.7.id",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=734&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=783&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=783&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" tvg-id="ANTV.id",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=782&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=782&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Metro TV",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=777&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=777&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" tvg-id="KompasTV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=874&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=874&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png" tvg-id="RTV.id",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=1561&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=1561&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/fdygcVx.png" tvg-id="BTV.id",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=875&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=875&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jak-tv-id.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=5415&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=5415&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=9713&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=9713&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-id="tvN.id",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=6362&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=6362&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-id="Arirang.id",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=6784&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=6784&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg",RANS Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=8241&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=8241&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://i.imgur.com/x5uoy2H.png" tvg-id="Elshinta.TV.id",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
 
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" tvg-id="SEA.TODAY.id",SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://surf.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
+#https://surf.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
 
 <============================== alt2 ======================================>
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="GITHUB" tvg-id="TransTV.id",Trans TV
