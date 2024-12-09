@@ -3,7 +3,7 @@
 
 <============================== NASIONAL ======================================>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="TRANSVISION" tvg-id="TVRI.id",TVRI
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TransVision_logo.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="TRANSVISION" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -500,6 +500,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="GITHUB" tvg-id="CNN.International.HD.id",CNN Internasional
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/awIDugE.png" group-title="TRANSVISION" tvg-id="CNA.sg",CNA
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
@@ -730,9 +733,6 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNIndones
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="GITHUB" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="CNBC Indonesia.id",CNBC Indonesia
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNBCIndonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfxefQw.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="GITHUB" tvg-id="CNN.International.HD.id",CNN Internasional
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/CNNInternational.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="GITHUB" tvg-id="Animax.id",Animax
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/main/Animax.m3u8
