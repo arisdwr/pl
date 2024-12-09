@@ -241,7 +241,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" group-title="DENSTV" tvg-id="KompasTV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-ttp://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png" group-title="DENSTV",TVRI Sport
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
