@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.bevy.be/bevyfiles/indonesia1.xml.gz,https://www.bevy.be/bevyfiles/indonesia2.xml.gz,https://www.bevy.be/bevyfiles/indonesia3.xml.gz,https://www.bevy.be/bevyfiles/indonesia4.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/singapore3.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.bevy.be/bevyfiles/indonesia3.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 <============================== NASIONAL ======================================>
@@ -100,7 +100,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
-#EXTINF:-1 group-title="VISION+" ch-number="15"  ch-number="15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" tvg-id="RCTI.id",RCTI
+#EXTINF:-1 group-title="VISION+" ch-number="15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" tvg-id="RCTI.id",RCTI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -124,7 +124,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="TRANSVISION" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -221,7 +221,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="DENSTV" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="DENSTV" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
@@ -251,12 +251,12 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1 group-title="DENSTV" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKAction",ROCK Action
+#EXTINF:-1 group-title="DENSTV" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-id="Rock.Action.id",ROCK Action
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="DENSTV" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKEntertainment",ROCK Entertainment
+#EXTINF:-1 group-title="DENSTV" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
@@ -281,7 +281,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDIHOME2" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="INDIHOME2" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 
 #EXTINF:-1 group-title="VISION+" ch-number="20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-id="tvOne.id",tvOne
@@ -317,7 +317,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 group-title="VISION+" ch-number="27"  ch-number="27" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png" tvg-id="JTV.id",JTV
+#EXTINF:-1 group-title="VISION+" ch-number="27" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -415,7 +415,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" ch-number="44"  ch-number="25" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/warner-tv-fr.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="WarnerTV",Warner TV
+#EXTINF:-1 group-title="TRANSVISION" ch-number="44" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/warner-tv-fr.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="WarnerTV",Warner TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -424,7 +424,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" ch-number="43" tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz" tvg-id="Cinema World.id",Cinema World
+#EXTINF:-1 group-title="TRANSVISION" ch-number="43" tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-url="https://www.bevy.be/bevyfiles/indonesia3.xml.gz" tvg-id="Cinema World.id",Cinema World
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -439,14 +439,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="VIDIO" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKAction",ROCK Action
+#EXTINF:-1 group-title="VIDIO" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-id="Rock.Action.id",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=8121&type=drm 
 https://luck.openwindows038.workers.dev/play.mpd?id=8121&type=dash
 
-#EXTINF:-1 group-title="VIDIO" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKEntertainment",ROCK Entertainment
+#EXTINF:-1 group-title="VIDIO" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -687,7 +687,7 @@ https://luck.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://luck.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
 
-#EXTINF:-1 group-title="VIDIO" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="VIDIO" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://luck.openwindows038.workers.dev/play.m3u8?id=875&type=hls
 
@@ -762,16 +762,16 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
 #EXTINF:-1 group-title="NONTON" ch-number="22" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" tvg-id="Metro TV",Metro TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
 
-#EXTINF:-1 group-title="NONTON" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="NONTON" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
 
-#EXTINF:-1 group-title="NONTON-HD" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.id",NET TV
+#EXTINF:-1 group-title="NONTON-HD" ch-number="19" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" tvg-id="NET.TV.id",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
 
-#EXTINF:-1 group-title="NONTON-HD" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKAction",ROCK Action
+#EXTINF:-1 group-title="NONTON-HD" ch-number="41" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-id="Rock.Action.id",ROCK Action
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
 
-#EXTINF:-1 group-title="NONTON-HD" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-id="ROCKEntertainment",ROCK Entertainment
+#EXTINF:-1 group-title="NONTON-HD" ch-number="42" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
 
 #EXTINF:-1 group-title="NONTON-HD" ch-number="69" tvg-logo="https://i.imgur.com/HaoVsm5.png" tvg-id="SPOTV.id",SPOTV 1
