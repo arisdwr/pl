@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://www.bevy.be/bevyfiles/indonesia1.xml,https://www.bevy.be/bevyfiles/indonesia3.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://www.open-epg.com/files/indonesia1.xml,https://www.open-epg.com/files/indonesia3.xml,https://www.open-epg.com/files/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -602,6 +602,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" tvg-id="Galaxy.id",GALAXY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" tvg-id="Galaxy.id",GALAXY
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
 
@@ -650,6 +657,12 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.m3u8
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITSMOVIE.png" tvg-id="HITS.MOVIES.id",HITS MOVIES
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -664,6 +677,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -689,7 +708,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/WBTV.png" tvg-id="Warner.TV.HD.my",Warner TV HD
+#EXTINF:-1 group-title="TRANSVISION" tvg-shift="-1" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/WBTV.png" tvg-id="Warner.TV.HD.my",Warner TV HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
 #EXTVLCOPT:http-user-agent=sky dazn/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -698,7 +717,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 group-title="FM" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/WBTV.png" tvg-id="Warner.TV.HD.my",Warner TV HD
+#EXTINF:-1 group-title="FM" tvg-shift="-1" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/WBTV.png" tvg-id="Warner.TV.HD.my",Warner TV HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
