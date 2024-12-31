@@ -3,5 +3,5 @@
 #EXT-X-STREAM-INF:BANDWIDTH=3021655,AVERAGE-BANDWIDTH=2746959,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
 https://cdngb196.indihometv.com/joss/133/net/chunklist_w887007557_b1544100_sleng.m3u8?encp=&uid=&expp=
 #EXT-X-STREAM-INF:BANDWIDTH=3021655,AVERAGE-BANDWIDTH=2746959,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,NAME="TEST"
-https://cdngb196.indihometv.com/joss/133/net/chunklist_b1544100_sleng.m3u8?encp=&uid=&expp=
+#https://cdngb196.indihometv.com/joss/133/net/chunklist_b1544100_sleng.m3u8?encp=&uid=&expp=
 
