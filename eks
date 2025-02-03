@@ -11,7 +11,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="VD1" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
 https://video.jasoncreak8.workers.dev/play.m3u8?id=6441&type=hls
@@ -19,7 +19,6 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=6441&type=hls
 #EXTINF:-1 group-title="VD2" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=6441&type=hls
-
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
@@ -149,6 +148,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANSTV.png" tvg-id="Trans.TV.id",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://luck.openwindows038.workers.dev/play.m3u8?id=733&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=733&type=hls
 
 #EXTINF:-1 group-title="DETIK" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANSTV.png" tvg-id="Trans.TV.id",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
@@ -180,6 +180,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANS7.png" tvg-id="Trans.7.id",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://luck.openwindows038.workers.dev/play.m3u8?id=734&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=734&type=hls
 
 #EXTINF:-1 group-title="DETIK" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANS7.png" tvg-id="Trans.7.id",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
@@ -284,7 +285,7 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=875&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=875&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=875&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
@@ -313,7 +314,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/tvOne.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVONE.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=783&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=783&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=783&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVONE.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -341,7 +342,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/ANTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANTV.png" tvg-id="ANTV.id",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=782&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=782&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=782&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANTV.png" tvg-id="ANTV.id",ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -375,7 +376,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=777&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=777&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=777&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -412,7 +413,7 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=874&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=874&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=874&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -440,7 +441,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/BTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BTV.png" tvg-id="BTV.id",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=6165&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=6165&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RTV.png" tvg-id="RTV.id",RTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -457,7 +458,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/RTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RTV.png" tvg-id="RTV.id",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=1561&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=1561&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=1561&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JAKTV.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -480,7 +481,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/JakTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JAKTV.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=5415&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=5415&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=5415&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JTV.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -503,17 +504,17 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/JTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JTV.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=9713&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=9713&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=9713&type=hls
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RANSCHANNEL.png",RANS Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=8241&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=8241&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=8241&type=hls
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ELSHINTATV.png" tvg-id="Elshinta.TV.id",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=10975&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=10975&type=hls
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANIMAX.png" tvg-id="Animax.id",Animax
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -721,7 +722,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play.mpd?id=8121&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=8121&type=drm 
 #https://luck.openwindows038.workers.dev/play.mpd?id=8121&type=dash
 https://video.jasoncreak8.workers.dev/play.mpd?id=8121&type=dash
 
@@ -743,7 +744,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play.mpd?id=8120&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=8120&type=drm
 #https://luck.openwindows038.workers.dev/play.mpd?id=8120&type=dash
 https://video.jasoncreak8.workers.dev/play.mpd?id=8120&type=dash
 
@@ -804,7 +805,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVN.png" tvg-id="tvN.id",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6362&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=636&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=636&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVN.png" tvg-id="tvN.id",tvN
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
@@ -872,7 +873,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/SeaToday.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SEATODAY.png" tvg-id="SEA.TODAY.id",SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=7687&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=7687&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNA.png" tvg-id="CNA.sg",CNA
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -916,7 +917,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ARIRANG.png" tvg-id="Arirang.id",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6784&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=6784&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=6784&type=hls
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ARIRANG.png" tvg-id="Arirang.id",Arirang
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Arirang.m3u8
