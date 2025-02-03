@@ -21,7 +21,7 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=6441&type=hls
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=6441&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36.ts
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://raw.githubusercontent.com/arisdwr/pl/main/s/TVRI.m3u8
@@ -67,14 +67,14 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
-https://raw.githubusercontent.com/arisdwr/pl/main/s/Indosiar.m3u8
-
 #EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
+https://raw.githubusercontent.com/arisdwr/pl/main/s/Indosiar.m3u8
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -82,7 +82,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -93,14 +93,14 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/ 
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
-https://raw.githubusercontent.com/arisdwr/pl/main/s/SCTV.m3u8
-
 #EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
+https://raw.githubusercontent.com/arisdwr/pl/main/s/SCTV.m3u8
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -108,10 +108,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/32.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/MOJI.png" tvg-id="Moji.id",MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -154,10 +154,10 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=733&type=hls
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANSTV.png" tvg-id="TransTV.id",Trans TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/34.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANSTV.png" tvg-id="TransTV.id",Trans TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/929.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANS7.png" tvg-id="Trans.7.id",Trans 7
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -186,10 +186,10 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=734&type=hls
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANS7.png" tvg-id="Trans.7.id",Trans 7
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/35.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TRANS7.png" tvg-id="Trans.7.id",Trans 7
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/930.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNNINDONESIA.png" tvg-id="CNN Indonesia.id",CNN Indonesia
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -205,7 +205,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNNINDONESIA.png" tvg-id="CNN Indonesia.id",CNN Indonesia
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/44.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNBCINDONESIA.png" tvg-id="CNBC Indonesia.id",CNBC Indonesia
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -224,7 +224,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/CNBC-Indonesia.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNBCINDONESIA.png" tvg-id="CNBC Indonesia.id",CNBC Indonesia
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1512.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1512.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RCTI.png" tvg-id="RCTI.id",RCTI
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -288,10 +288,10 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 https://video.jasoncreak8.workers.dev/play.m3u8?id=875&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/24.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/78.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVONE.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -384,7 +384,7 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=777&type=hls
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/52.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -421,7 +421,7 @@ https://video.jasoncreak8.workers.dev/play.m3u8?id=874&type=hls
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/30.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BTV.png" tvg-id="BTV.id",BTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -529,7 +529,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANIMAX.png" tvg-id="Animax.id",Animax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/3.ts
 
 #EXTINF:-1 group-title="FM" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CARTOONNETWORK%20(1).png" tvg-id="Cartoon.Network.HD.id",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -553,7 +553,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/DREAMWORKS.png" tvg-id="Dreamworks.id",Dreamworks
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/32529.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBO.png" tvg-id="HBO.HD.id",HBO HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -665,7 +665,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" tvg-id="Galaxy.id",GALAXY
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29604.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" tvg-id="Galaxy.Premium.id",GALAXY PREMIUM
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -677,7 +677,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 https://raw.githubusercontent.com/arisdwr/pl/main/s/GalaxyPremium.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" tvg-id="Galaxy.Premium.id",GALAXY PREMIUM
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29603.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29603.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITS.png" tvg-id="HITS.id",HITS
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -689,7 +689,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITS.png" tvg-id="HITS.id",HITS
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/94.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITSMOVIE.png" tvg-id="HITS.MOVIES.id",HITS MOVIES
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -707,10 +707,10 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITSMOVIE.png" tvg-id="HITS.MOVIES.id",HITS MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/957.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HITSMOVIE.png" tvg-id="HITS.MOVIES.id",HITS MOVIES
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/99.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -732,7 +732,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=8121&type=dash
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1506.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -754,7 +754,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=8120&type=dash
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/811.ts
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CINEMAWORLD.png" tvg-id="Cinema World.id",Cinema World
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -808,10 +808,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68
 https://video.jasoncreak8.workers.dev/play.m3u8?id=636&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVN.png" tvg-id="tvN.id",tvN
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/767.ts
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVNMOVIES.png" tvg-id="tvN.Movies.id",tvN Movies
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/927.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BBCEARTH.png" tvg-id="BBC.Earth.id",BBC Earth
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -820,7 +820,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BBCEARTH.png" tvg-id="BBC.Earth.id",BBC Earth
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37449.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37449.ts
 
 #EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HISTORY.png" tvg-id="History.id",History
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -859,7 +859,7 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNNINTERNASIONAL.png" tvg-id="CNN.International.HD.id",CNN Internasional
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1200.ts
 
 #EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BLOOMBERG.png" tvg-id="Bloomberg.id",Bloomberg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1083,7 +1083,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://video.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV.png" tvg-id="SPOTV.id",SPOTV 1
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37443.ts
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -1106,4 +1106,4 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 https://video.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37338.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37338.ts
