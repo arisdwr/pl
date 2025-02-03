@@ -11,10 +11,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
+#EXTINF:-1 group-title="VD1" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
-https://video.jasoncreak8.workers.dev/play.mpd?id=6441&type=hls
+https://video.jasoncreak8.workers.dev/play.m3u8?id=6441&type=hls
+
+#EXTINF:-1 group-title="VD2" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=6441&type=hls
+
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
@@ -922,7 +927,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/Arirang.m3u8
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN1.png" tvg-id="Bein 1.id",beIN Sports 1
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN1.png" tvg-id="Bein 1.id",beIN Sports 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -936,7 +941,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN2.png" tvg-id="Bein 2.id",beIN Sports 2
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN2.png" tvg-id="Bein 2.id",beIN Sports 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -950,7 +955,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN3.png" tvg-id="Bein 3.id",beIN Sports 3
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN3.png" tvg-id="Bein 3.id",beIN Sports 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
