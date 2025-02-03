@@ -14,6 +14,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6441&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=6441&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVRI.png" tvg-id="TVRI.id",TVRI
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
@@ -278,6 +279,7 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=875&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=875&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/NETTV.png" tvg-id="NET.TV.id",NET TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
@@ -306,6 +308,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/tvOne.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVONE.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=783&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=783&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVONE.png" tvg-id="tvOne.id",tvOne
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -333,6 +336,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/ANTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANTV.png" tvg-id="ANTV.id",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=782&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=782&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANTV.png" tvg-id="ANTV.id",ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -366,6 +370,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=777&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=777&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -402,6 +407,7 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=874&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=874&type=hls
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/KOMPASTV.png" tvg-id="Kompas.TV.id",Kompas TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -429,6 +435,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/BTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BTV.png" tvg-id="BTV.id",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6165&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=6165&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RTV.png" tvg-id="RTV.id",RTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -445,6 +452,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/RTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RTV.png" tvg-id="RTV.id",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=1561&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=1561&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JAKTV.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -467,6 +475,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/JakTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JAKTV.png" tvg-id="JAKTV.id",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=5415&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=5415&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JTV.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -489,14 +498,17 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/JTV.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JTV.png" tvg-id="JTV.id",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=9713&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=9713&type=hls
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RANSCHANNEL.png",RANS Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=8241&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=8241&type=hls
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ELSHINTATV.png" tvg-id="Elshinta.TV.id",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=10975&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=10975&type=hls
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ANIMAX.png" tvg-id="Animax.id",Animax
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -548,7 +560,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBO.png" tvg-id="HBO.HD.id",HBO HD
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+
+#EXTINF:-1 group-title="IDK" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBO.png" tvg-id="HBO.HD.id",HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOHITS.png" tvg-id="HBO.Hits.HD.id",HBO Hits
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -561,7 +581,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOHITS.png" tvg-id="HBO.Hits.HD.id",HBO Hits
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+
+#EXTINF:-1 group-title="IDK" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOHITS.png" tvg-id="HBO.Hits.HD.id",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOFAMILY.png" tvg-id="HBO.Family.HD.id",HBO Family HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -574,7 +602,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOFAMILY.png" tvg-id="HBO.Family.HD.id",HBO Family HD
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+
+#EXTINF:-1 group-title="IDK" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOFAMILY.png" tvg-id="HBO.Family.HD.id",HBO Family HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOSIGNATURE.png" tvg-id="HBO.Signature.HD.id",HBO Signature HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -587,7 +622,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOSIGNATURE.png" tvg-id="HBO.Signature.HD.id",HBO Signature HD
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
+
+#EXTINF:-1 group-title="IDK" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/HBOSIGNATURE.png" tvg-id="HBO.Signature.HD.id",HBO Signature HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CINEMAX.png" tvg-id="Cinemax.HD.id",Cinemax HD
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -600,7 +643,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CINEMAX.png" tvg-id="Cinemax.HD.id",Cinemax HD
 #EXTVLCOPT:http-referrer=http://www.firstmedia.com
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+
+#EXTINF:-1 group-title="IDK" tvg-shift="-7" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CINEMAX.png" tvg-id="Cinemax.HD.id",Cinemax HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" tvg-id="Galaxy.id",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -664,11 +713,12 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=8121&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play.mpd?id=8121&type=drm 
 #https://luck.openwindows038.workers.dev/play.mpd?id=8121&type=dash
+https://video.jasoncreak8.workers.dev/play.mpd?id=8121&type=dash
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKACTION.png" tvg-id="Rock.Action.id",ROCK Action
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -685,11 +735,12 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=8120&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play.mpd?id=8120&type=drm
 #https://luck.openwindows038.workers.dev/play.mpd?id=8120&type=dash
+https://video.jasoncreak8.workers.dev/play.mpd?id=8120&type=dash
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ROCKENTERTAINMENT.png" tvg-id="Rock.Entertainment.id",ROCK Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -748,6 +799,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVN.png" tvg-id="tvN.id",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6362&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=636&type=hls
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/TVN.png" tvg-id="tvN.id",tvN
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
@@ -815,6 +867,7 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/SeaToday.m3u8
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SEATODAY.png" tvg-id="SEA.TODAY.id",SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=7687&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=7687&type=hls
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CNA.png" tvg-id="CNA.sg",CNA
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -858,6 +911,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ARIRANG.png" tvg-id="Arirang.id",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://luck.openwindows038.workers.dev/play.m3u8?id=6784&type=hls
+https://video.jasoncreak8.workers.dev/play.mpd?id=6784&type=hls
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/ARIRANG.png" tvg-id="Arirang.id",Arirang
 https://raw.githubusercontent.com/arisdwr/pl/main/s/Arirang.m3u8
@@ -868,11 +922,27 @@ https://raw.githubusercontent.com/arisdwr/pl/main/s/Arirang.m3u8
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN1.png" tvg-id="Bein 1.id",beIN Sports 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6299&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
+
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN2.png" tvg-id="Bein 2.id",beIN Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN2.png" tvg-id="Bein 2.id",beIN Sports 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17875&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN3.png" tvg-id="Bein 3.id",beIN Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -880,85 +950,93 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
-#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS1.png" tvg-id="Champions TV 1.id",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BEIN3.png" tvg-id="Bein 3.id",beIN Sports 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-#https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6317&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS1.png" tvg-id="Champions TV 1.id",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS1.png" tvg-id="Champions TV 1.id",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6685
+#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6685
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS2.png" tvg-id="Champions TV 2.id",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-#https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS2.png" tvg-id="Champions TV 2.id",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6686
+#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6686
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS3.png" tvg-id="Champions TV 3.id",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=6786&type=drm
-#https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS3.png" tvg-id="Champions TV 3.id",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6786
+#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6786
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS5.png" tvg-id="Champions TV 5.id",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=9182&type=drm
-#https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS5.png" tvg-id="Champions TV 5.id",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
+#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS6.png" tvg-id="Champions TV 6.id",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=#https://luck.openwindows038.workers.dev/play?id=9183&type=drm
-#https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/CHAMPIONS6.png" tvg-id="Champions TV 6.id",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
+#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SOCCERCHANNEL.png" tvg-id="Soccer.Channel.id",SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=http://www.mncvision.id
@@ -990,6 +1068,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV.png" tvg-id="SPOTV.id",SPOTV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17139&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
+
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV.png" tvg-id="SPOTV.id",SPOTV 1
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
 
@@ -999,11 +1085,19 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
+#EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 group-title="VD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17139&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="IDH-NO-WM-HD" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SPOTV2.png" tvg-id="SPOTV.2.id",SPOTV 2
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37338.m3u8
