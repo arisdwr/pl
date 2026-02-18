@@ -40,12 +40,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
-#EXTINF:-1 group-title="JEKTVLIVE" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/JEKTV.png",Jek TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://182.16.186.3:1935/ch14/myStream/chunklist_w1374527480.m3u8
-
 #EXTINF:-1 group-title="BUNGOTVLIVE" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/BUNGOTV.png",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
@@ -57,13 +51,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mediampd/IndosiarHD.mpd
-
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/INDOSIAR.png" tvg-id="Indosiar.id",Indosiar
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -83,13 +70,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
-#EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
-
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/SCTV.png" tvg-id="SCTV.id",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -178,7 +158,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce016658680
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTINF:-1 group-title="VISION+2" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RCTI.png" tvg-id="RCTI.id",RCTI
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/RCTI.png" tvg-id="RCTI.id",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -193,7 +173,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
-#EXTINF:-1 group-title="VISION+2" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/GTV.png" tvg-id="GTV.id",GTV
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/GTV.png" tvg-id="GTV.id",GTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -207,7 +187,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
-#EXTINF:-1 group-title="VISION+2" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/MNCTV.png" tvg-id="MNCTV.id",MNC TV
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/MNCTV.png" tvg-id="MNCTV.id",MNC TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -282,12 +262,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e54
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
-
-#EXTINF:-1 group-title="FM" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #EXTINF:-1 group-title="DENSTV" tvg-logo="https://raw.githubusercontent.com/arisdwr/pl/main/LOGO/METROTV.png" tvg-id="Metro TV.id",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
